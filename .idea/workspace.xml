@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -52,27 +53,17 @@
       <recent name="C:\NewDrive\low-level-design\LLD\src\designpatterns\builder\approachtwo" />
       <recent name="C:\NewDrive\low-level-design\LLD\src\singleton\imptwo" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="designpatterns.factory.button" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.designpatterns.prototype.Client">
+  <component name="RunManager" selected="Application.designpatterns.simplefactory.button.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpatterns.builder.approachone.Client" />
       <module name="LLD" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="designpatterns.builder.approachone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.impone.Main" />
-      <module name="LLD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="singleton.impone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="designpatterns.factory.button.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.factory.button.Client" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpatterns.factory.button.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="designpatterns.prototype.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpatterns.prototype.Client" />
       <module name="LLD" />
@@ -106,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singleton.imptwo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.imptwo.Main" />
+    <configuration name="designpatterns.simplefactory.button.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.simplefactory.button.Client" />
       <module name="LLD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singleton.imptwo.*" />
+          <option name="PATTERN" value="designpatterns.simplefactory.button.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designpatterns.simplefactory.button.Client" />
+        <item itemvalue="Application.designpatterns.factory.button.Client" />
         <item itemvalue="Application.designpatterns.prototype.Client" />
         <item itemvalue="Application.designpatterns.builder.approachtwo.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.singleton.imptwo.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +145,8 @@
       <workItem from="1685634947549" duration="2458000" />
       <workItem from="1685681223616" duration="1758000" />
       <workItem from="1685683024991" duration="143000" />
+      <workItem from="1685702269076" duration="215000" />
+      <workItem from="1685702572946" duration="2502000" />
     </task>
     <servers />
   </component>
