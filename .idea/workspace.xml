@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,13 +60,13 @@
       <recent name="designpatterns.structural.adapter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.designpatterns.simplefactory.button.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.builder.approachone.Client" />
+  <component name="RunManager" selected="Application.Customer">
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.structural.decorator.iceream.Customer" />
       <module name="LLD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.builder.approachone.*" />
+          <option name="PATTERN" value="designpatterns.structural.decorator.iceream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Customer" />
         <item itemvalue="Application.designpatterns.simplefactory.button.Client" />
         <item itemvalue="Application.designpatterns.factory.button.Client" />
         <item itemvalue="Application.designpatterns.prototype.Client" />
         <item itemvalue="Application.designpatterns.builder.approachtwo.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,7 @@
       <workItem from="1685683024991" duration="143000" />
       <workItem from="1685702269076" duration="215000" />
       <workItem from="1685702572946" duration="2502000" />
-      <workItem from="1685807949337" duration="1665000" />
+      <workItem from="1685807949337" duration="2615000" />
     </task>
     <servers />
   </component>
