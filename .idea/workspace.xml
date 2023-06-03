@@ -56,6 +56,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="designpatterns.factory.button" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designpatterns.structural.adapter" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.designpatterns.simplefactory.button.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -147,6 +150,7 @@
       <workItem from="1685683024991" duration="143000" />
       <workItem from="1685702269076" duration="215000" />
       <workItem from="1685702572946" duration="2502000" />
+      <workItem from="1685807949337" duration="1665000" />
     </task>
     <servers />
   </component>
